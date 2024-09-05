@@ -9,3 +9,26 @@ height: 80px;
 
 }
 
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+header{
+    background-color: yellowgreen;
+    border-radius: 30px;
+    padding: 10px 50px;
+
+
+}
+
+.image-container{
+display: flex;
+
+
+}
+
+.image-container img{
+    width: 80%;
+    border-radius: 20px;
+    
+}
+
